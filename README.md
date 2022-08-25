@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shahin</h1>
-<h3 align="center">An astrophysicist working on the Sun's atmosphere, with great interest in data science – highly competent in data analysis, image processing, quantitative and qualitative research techniques.</h3>
+<h1 >Hi there 👋, I'm Shahin</h1>
+<h3>An astrophysicist working on the Sun's atmosphere, with great interest in data science – highly competent in data analysis, image processing, quantitative and qualitative research techniques.</h3>
 
 - 🔭 I’m currently working on **development of a comprehensive repository on wave analysis tools**
 
@@ -9,9 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shahinj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahinj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shahinjafarzadeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahinjafarzadeh" height="30" width="40" /></a>
-<a href="https://fb.com/sj.shahin.jafarzadeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sj.shahin.jafarzadeh" height="30" width="40" /></a>
+<a href="https://twitter.com/shahinj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shahinj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shahinjafarzadeh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shahinjafarzadeh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
