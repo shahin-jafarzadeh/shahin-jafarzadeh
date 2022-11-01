@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **development of a comprehensive repository on wave analysis tools**
 
-- 📫 Reach me at **shahin.jafarzadeh@walsa.team**
+- 📫 Reach me at shahin.jafarzadeh@walsa.team
 
 - 📄 Know about my scientific work at [https://shahin.website](https://shahin.website)
 
