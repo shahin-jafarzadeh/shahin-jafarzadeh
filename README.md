@@ -1,7 +1,7 @@
 <h1 >Hi there 👋, I'm Shahin</h1>
 <h3>An astrophysicist working on the Sun's atmosphere, with a great passion for data science – highly competent in data analysis, image processing, quantitative and qualitative research techniques.</h3>
 
-- 🔭 I’m currently working on **development of a comprehensive repository on wave analysis tools**
+- 🔭 Together with colleagues in the [https://WaLSA.team](WaLSA Team), I’m currently working on **development of a comprehensive repository on wave analysis tools**
 
 - 📫 Reach me at shahin.jafarzadeh@mps.mpg.de
 
