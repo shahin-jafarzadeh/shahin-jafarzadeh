@@ -5,7 +5,7 @@
 
 - 📫 Reach me at shahin.jafarzadeh@mps.mpg.de
 
-- 📄 Know about my scientific work at [https://WaLSA.team/shahin.jafarzadeh](https://WaLSA.team/shahin.jafarzadeh)
+- 📄 Know about my scientific work at [https://WaLSA.team/Shahin.Jafarzadeh](https://WaLSA.team/Shahin.Jafarzadeh)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
