@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/shahinj" target="blank" title="X (Twitter)"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="X (Twitter)" height="30" width="40" /></a>
+<a href="https://x.com/shahinj" target="blank" title="X (Twitter)"><img align="center" src="https://shahin.website/logos/twitterx.svg" alt="X (Twitter)" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shahinjafarzadeh" target="blank" title="LinkedIn"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
