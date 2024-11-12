@@ -3,7 +3,7 @@
 
 - 🔭 Together with colleagues in the [WaLSA Team](https://WaLSA.team), I’m currently working on **development of a comprehensive repository on wave analysis tools**
 
-- 📫 Reach me at shahin.jafarzadeh@mps.mpg.de
+- 📫 Reach me at shahin.jafarzadeh@walsa.team
 
 - 📄 Know about my scientific work at [https://WaLSA.team/Shahin.Jafarzadeh](https://WaLSA.team/Shahin.Jafarzadeh)
 
