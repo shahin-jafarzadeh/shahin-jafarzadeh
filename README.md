@@ -1,16 +1,18 @@
 <h1 >Hi there 👋, I'm Shahin</h1>
-<h3>An astrophysicist working on the Sun's atmosphere, with a great passion for data science – highly competent in data analysis, image processing, quantitative and qualitative research techniques.</h3>
+<h3>Astrophysicist exploring the Sun’s atmosphere, with a strong passion for data science. Skilled in data analysis, image processing, and both quantitative and qualitative research techniques.</h3>
 
-- 🔭 Together with colleagues in the [WaLSA Team](https://WaLSA.team), I’m currently working on **development of a comprehensive repository on wave analysis tools**
+- 🔭 Together with colleagues in the [WaLSA Team](https://WaLSA.team), I’m actively developing and extending <a href="https://WaLSA.tools" target="_blank"><strong>WaLSAtools</strong></a> — a comprehensive, open-source repository for wave and oscillation analysis across disciplines. Its applications span fields from astrophysics and geophysics to engineering, medicine, and pharmaceutical research.
 
-- 📫 Reach me at Shahin.Jafarzadeh@WaLSA.team
+- 📫 Reach me at <a href="mailto:Shahin.Jafarzadeh@WaLSA.team">Shahin.Jafarzadeh@WaLSA.team</a>
 
-- 📄 Know about my scientific work at [https://WaLSA.team/Shahin.Jafarzadeh](https://WaLSA.team/Shahin.Jafarzadeh)
+- 📄 Learn more about my work [https://WaLSA.team/Shahin.Jafarzadeh](https://WaLSA.team/Shahin.Jafarzadeh)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/shahinj" target="blank" title="X (Twitter)"><img align="center" src="https://shahin.website/logos/twitterx.svg" alt="X (Twitter)" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/shahinjafarzadeh" target="blank" title="LinkedIn"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://bsky.app/profile/shahin-jafarzadeh.bsky.social" target="_blank" title="Bluesky"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bluesky.svg" alt="Bluesky" height="30" width="40" /></a>
+<a href="https://x.com/shahinj" target="blank" title="X (Twitter)"><img align="center" src="https://shahin.website/logos/twitterx.svg" alt="X (Twitter)" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
