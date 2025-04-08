@@ -1,7 +1,7 @@
 <h1 >Hi there 👋, I'm Shahin</h1>
 <h3>Astrophysicist exploring the Sun’s atmosphere, with a strong passion for data science. Skilled in data analysis, image processing, and both quantitative and qualitative research techniques.</h3>
 
-- <img src="https://walsa.team/images/layers.png" width="25" style="align:middle;"/> Together with colleagues in the [WaLSA Team](https://WaLSA.team), I’m actively developing and extending <a href="https://WaLSA.tools" target="_blank"><strong>WaLSAtools</strong></a> — a comprehensive, open-source repository for analysing waves and oscillatory phenomena across disciplines. Its applications span fields from astrophysics and seismology to engineering, economics, and pharmaceutical research.
+- <img src="https://walsa.team/images/code.svg" width="25" /> Together with colleagues in the [WaLSA Team](https://WaLSA.team), I’m actively developing and extending <a href="https://WaLSA.tools" target="_blank"><strong>WaLSAtools</strong></a> — a comprehensive, open-source repository for analysing waves and oscillatory phenomena across disciplines. Its applications span fields from astrophysics and seismology to engineering, economics, and pharmaceutical research.
 
 - 📫 Reach me at <a href="mailto:Shahin.Jafarzadeh@WaLSA.team">Shahin.Jafarzadeh@WaLSA.team</a>
 
