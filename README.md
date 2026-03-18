@@ -4,7 +4,7 @@
 <ul>
   <li>
     <img src="https://walsa.team/images/code__icon.svg" width="20" />
-    Together with colleagues in the <a href="https://WaLSA.team" target="_blank" rel="noreferrer">WaLSA Team</a>, I’m developing and maintaining
+    Together with colleagues in the <a href="https://WaLSA.team" target="_blank" rel="noreferrer">WaLSA Team</a>, I’m actively developing and maintaining
     <a href="https://WaLSA.tools" target="_blank" rel="noreferrer"><strong>WaLSAtools</strong></a> — an open-source toolkit for analysing waves and oscillatory signals across disciplines, with applications spanning astrophysics, seismology, engineering, economics, and life sciences (including pharmaceutical research).
   </li>
 
