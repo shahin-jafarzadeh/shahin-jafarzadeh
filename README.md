@@ -15,15 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/shahinjafarzadeh" target="_blank" rel="noreferrer" title="LinkedIn">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://bsky.app/profile/shahin-jafarzadeh.bsky.social" target="_blank" rel="noreferrer" title="Bluesky">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@14.11.0/icons/bluesky.svg" alt="Bluesky" height="30" width="40"/>
-  </a>
-  <a href="https://x.com/shahinj" target="_blank" rel="noreferrer" title="X (Twitter)">
-    <img align="center" src="https://shahin.website/logos/twitterx.svg" alt="X (Twitter)" height="30" width="40" />
-  </a>
+  <span><a href="https://linkedin.com/in/shahinjafarzadeh" target="_blank" rel="noreferrer" title="LinkedIn"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a></span>
+  <span><a href="https://bsky.app/profile/shahin-jafarzadeh.bsky.social" target="_blank" rel="noreferrer" title="Bluesky"><img src="https://cdn.jsdelivr.net/npm/simple-icons@14.11.0/icons/bluesky.svg" alt="Bluesky" height="30" width="40"/></a></span>
+  <span><a href="https://x.com/shahinj" target="_blank" rel="noreferrer" title="X (Twitter)"><img src="https://shahin.website/logos/twitterx.svg" alt="X (Twitter)" height="30" width="40" /></a></span>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
