@@ -1,4 +1,4 @@
-<h1 >Hi there 👋, I'm Shahin</h1>
+<h1>Hi there 👋, I'm Shahin</h1>
 <h3>Data scientist with a research background in astrophysics, specialising in time-series analysis, signal processing, image-based analytics, and applied AI/ML.</h3>
 
 <ul>
@@ -10,6 +10,7 @@
       <li><strong><a href="https://github.com/WaLSAteam/WaLSAlib" target="_blank" rel="noreferrer">WaLSAlib</a></strong> — a companion library of auxiliary routines for preparing analysis-ready products and time series.</li>
     </ul>
   </li>
+   
 
   <li>📫 Reach me at <a href="mailto:Shahin.Jafarzadeh@WaLSA.team">Shahin.Jafarzadeh@WaLSA.team</a></li>
 
